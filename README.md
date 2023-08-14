@@ -32,6 +32,7 @@
 ### 1.3. 地理院地図を使いこなそう
  * [地理院地図](https://maps.gsi.go.jp/)
  * [地理院地図Vector](https://maps.gsi.go.jp/vector/)
+ * [地理院地図ソースコード on GitHub](https://github.com/gsi-cyberjapan/gsimaps)
 
 
 ## 2. おまけ
