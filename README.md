@@ -21,7 +21,7 @@
 
 ---
 
-### 1.2. Shapeを捨て、GeoJSONへ
+### 1.2. Shape(シェープ)を捨て、GeoJSON(ジオジェイソン)へ
 #### 1.2.1. [所沢市オープンデータ on 埼玉県オープンデータポータル](https://opendata.pref.saitama.lg.jp/data/organization/1828149d-1a58-4c42-90a9-18780d07ccb6?tags=%E4%BD%8F%E6%B0%91%E5%90%91%E3%81%91%E6%83%85%E5%A0%B1+%E6%9A%AE%E3%82%89%E3%81%97%E3%81%AE%E6%83%85%E5%A0%B1) 
  * [とことこマップ「福祉関連」(Shapeファイル)](https://opendata.pref.saitama.lg.jp/data/dataset/c12658b6-c75e-4c55-90d4-fb7a44776880/resource/34df5645-a227-48d2-8649-05c9c22c62d5/download/tokotokomapfukusikannren.zip)
  * [【所沢市】避難所マップ(Shapeファイル)](https://opendata.pref.saitama.lg.jp/data/dataset/eaec08b2-e2a2-4812-b7c1-b9f1ae3128e9/resource/9415b6f4-8017-4192-b5b1-8d0d92a87b29/download/hinanjyo20190320.zip)
