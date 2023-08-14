@@ -2,7 +2,7 @@
 所沢市GIS講習会用公開リポジトリ
 
 ## 0. 講義資料
- * スライド(PDF)
+ * [スライド(PDF)](https://speakerdeck.com/fullfull/20230815-suo-ze-shi-gisyan-xiu-hui-pei-bu-zi-liao)
 
 ## 1. 実習用データ
 
