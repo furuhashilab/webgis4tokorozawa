@@ -16,8 +16,8 @@
 
 
 #### 1.1.2. 関連サイト
- * [Jageocoder](https://jageocoder.info-proto.com/)
  * [地理院地図](https://maps.gsi.go.jp/)
+ * [Jageocoder](https://jageocoder.info-proto.com/)
  * [Googleマイマップ](https://www.google.com/maps/d/u/0/)
 
 ### 1.2. SHPを捨て、GeoJSONへ
