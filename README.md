@@ -17,7 +17,7 @@
 #### 1.1.2. 関連サイト
  * [地理院地図](https://maps.gsi.go.jp/)
  * [Jageocoder](https://jageocoder.info-proto.com/)
- * [Googleマイマップ](https://www.google.com/maps/d/u/0/)
+ * [Googleマイマップ](https://www.google.com/maps/d/u/0/) : あくまで参考情報として
 
 ---
 
