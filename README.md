@@ -41,9 +41,9 @@
  * [地理院地図Vector](https://maps.gsi.go.jp/vector/)
  * [地理院地図ソースコード on GitHub](https://github.com/gsi-cyberjapan/gsimaps)
 
-
 ## 2. おまけ・質疑応答で共有したサービス
  * オフラインでナビゲーション可能な地図アプリ: [Organic Maps](https://organicmaps.app/)
+ * [Yahoo!マップ](https://map.yahoo.co.jp/?lat=35.79141&lon=139.42318&zoom=12&maptype=basic )にも採用されている地図開発ツール: [Mapbox](https://www.mapbox.jp/)
  * 自転車やウォーキングの人気ルート共有: [Stravaグローバルヒートマップ](https://www.strava.com/heatmap?hl=ja-JP#12.39/139.41082/35.77513/hot/all)
  * 数千点の地点データを可視化可能なツール: [uMap](https://umap.openstreetmap.fr/ja/)
  * 地理院地図をカスタマイズして約72万地点の橋梁データなどを[ベクトルタイル化](https://github.com/gsi-cyberjapan/vector-tile-experiment)したサイト: [Q地図](https://maps.qchizu.xyz/#14/35.792893/139.461050/&base=std&ls=std%7Cmlit_road2019_bridge_01%7Cmlit_road2019_bridge_03&disp=111&lcd=mlit_road2019_bridge_03&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
