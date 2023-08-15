@@ -29,7 +29,7 @@
 #### 1.2.2. 関連サイト
  * Shape → GeoJSON 変換ツール: [OGRE](http://ogre.adc4gis.com/) EPSG:3857, EPSG:4326 などのパラメータを覚える必要あり
  * GeoJSON → Shape 変換ツール: [GeoJSON.io](https://geojson.io/) 
- * Shape ←→ GeoJSON 変換可能: [ChatGPT Code Interpreter](https://chat.openai.com/?model=gpt-4-code-interpreter) ChatGPT有償契約が必要
+ * Shape ←→ GeoJSON 変換可能: [ChatGPT Code Interpreter](https://chat.openai.com/?model=gpt-4-code-interpreter) ChatGPT有償契約が必要, [実行例](https://github.com/furuhashilab/chatgpt4plateau/issues/33)
 
 ---
 
