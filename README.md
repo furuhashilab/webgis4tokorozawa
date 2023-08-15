@@ -17,6 +17,7 @@
  * [地理院地図](https://maps.gsi.go.jp/)
  * [Jageocoder](https://jageocoder.info-proto.com/)
  * [Googleマイマップ](https://www.google.com/maps/d/u/0/) : あくまで参考情報として
+ * [とにかく日本の住所のヤバさをもっと知るべきだと思います](https://note.com/inuro/n/n7ec7cf15cf9c)
 
 ---
 
