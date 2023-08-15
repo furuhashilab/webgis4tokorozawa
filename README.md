@@ -39,6 +39,8 @@
  * [地理院地図ソースコード on GitHub](https://github.com/gsi-cyberjapan/gsimaps)
 
 ## 2. おまけ・質疑応答で共有したサービス
+ * 地理院地図で人口分布をすぐに確認したいとき: [地理院地図+人口増減+人口集中地区](https://maps.gsi.go.jp/#13/35.799300/139.478289/&base=pale&ls=pale%7Cred%7Cjinkodotai_jinko_sabun1995_2015%2C0.51%7Cdid2020%2C0.65&blend=100&disp=1011&lcd=red&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1)
+ * より詳細の[総務省統計局 地理情報システムjSTAT MAP](https://www.e-stat.go.jp/gis/gislp/), [国勢調査(人口データ)](https://www.e-stat.go.jp/gis/statmap-search?page=1&type=1&toukeiCode=00200521&toukeiYear=2020&aggregateUnit=A&serveyId=A002005212020&statsId=T001081), [境界データ](https://www.e-stat.go.jp/gis/statmap-search?type=2) 
  * オフラインでナビゲーション可能な地図アプリ: [Organic Maps](https://organicmaps.app/)
  * [Yahoo!マップ](https://map.yahoo.co.jp/?lat=35.79141&lon=139.42318&zoom=12&maptype=basic )にも採用されている地図開発ツール: [Mapbox](https://www.mapbox.jp/)
  * 自転車やウォーキングの人気ルート共有: [Stravaグローバルヒートマップ](https://www.strava.com/heatmap?hl=ja-JP#12.39/139.41082/35.77513/hot/all)
