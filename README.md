@@ -47,5 +47,5 @@
  * 市民参加型ストリートビュー: [Mapillary](https://www.mapillary.com/app/?location=Tokorozawa-Shi%2C+Japan&focus=photo&lat=35.782182390249&lng=139.44054844535&z=17&pKey=713759096881147&x=0.31533190723848137&y=0.6022423399830015&zoom=0)
  * 市民参加型ドローン空撮画像共有サイト: [OpenAerialMap](https://map.openaerialmap.org/#/139.43996787071228,35.78318032875332,16/square/133002112032122233/62a68fdc440da900061201b8?_k=nu2nvd)
  * 市民参加型バリアフリーマップ: [Wheelmap](https://wheelmap.org/) 
- * 国土交通省 3D都市モデル Project PLATEAU ウェブビューワ: [PLATEAU VIEW](https://www.mlit.go.jp/plateau/plateau-view-app/)
+ * 国土交通省 3D都市モデル Project PLATEAU ウェブビューワ: [PLATEAU VIEW](https://www.mlit.go.jp/plateau/plateau-view-app/) と [独自GeoJSON展開例](https://plateauview.mlit.go.jp?share=01h7w63pj5rna3k649nagknvrg)
  * 質問などがあったら[古橋のTwitter(X)アカウント](https://twitter.com/mapconcierge) へお気軽に！
