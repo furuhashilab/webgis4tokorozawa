@@ -48,6 +48,7 @@
  * [地理院地図をカスタマイズ](https://github.com/gsi-cyberjapan/gsimaps)して約72万地点の橋梁データなどを[ベクトルタイル化](https://github.com/gsi-cyberjapan/vector-tile-experiment)したサイト: [Q地図](https://maps.qchizu.xyz/#14/35.792893/139.461050/&base=std&ls=std%7Cmlit_road2019_bridge_01%7Cmlit_road2019_bridge_03&disp=111&lcd=mlit_road2019_bridge_03&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1&d=m)
  * 市民参加型ストリートビュー: [Mapillary](https://www.mapillary.com/app/?location=Tokorozawa-Shi%2C+Japan&focus=photo&lat=35.782182390249&lng=139.44054844535&z=17&pKey=713759096881147&x=0.31533190723848137&y=0.6022423399830015&zoom=0)
  * 市民参加型ドローン空撮画像共有サイト: [OpenAerialMap](https://map.openaerialmap.org/#/139.43996787071228,35.78318032875332,16/square/133002112032122233/62a68fdc440da900061201b8?_k=nu2nvd)
- * 市民参加型バリアフリーマップ: [Wheelmap](https://wheelmap.org/) 
+ * 市民参加型バリアフリーマップ: [Wheelmap](https://wheelmap.org/)
+ * 参考図書: [参加型GISの理論と応用: みんなで作り・使う地理空間情報 on Amazon](https://amzn.to/45f2bFy)
  * 国土交通省 3D都市モデル Project PLATEAU ウェブビューワ: [PLATEAU VIEW](https://www.mlit.go.jp/plateau/plateau-view-app/) と [独自GeoJSON展開例](https://plateauview.mlit.go.jp?share=01h7w63pj5rna3k649nagknvrg)
  * 質問などがあったら[古橋のTwitter(X)アカウント](https://twitter.com/mapconcierge) へお気軽に！
