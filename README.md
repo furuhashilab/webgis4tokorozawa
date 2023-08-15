@@ -30,9 +30,9 @@
  * [【所沢市】避難所マップ(Shapeファイル)](https://opendata.pref.saitama.lg.jp/data/dataset/eaec08b2-e2a2-4812-b7c1-b9f1ae3128e9/resource/9415b6f4-8017-4192-b5b1-8d0d92a87b29/download/hinanjyo20190320.zip)
 
 #### 1.2.2. 関連サイト
- * [OGRE](http://ogre.adc4gis.com/)
- * [GeoJSON.io](https://geojson.io/)
- * [ChatGPT Code Interpreter](https://chat.openai.com/?model=gpt-4-code-interpreter)
+ * Shape → GeoJSON 変換ツール: [OGRE](http://ogre.adc4gis.com/) EPSG:3857, EPSG:4326 などのパラメータを覚える必要あり
+ * GeoJSON → Shape 変換ツール: [GeoJSON.io](https://geojson.io/) 
+ * Shape ←→ GeoJSON 変換可能: [ChatGPT Code Interpreter](https://chat.openai.com/?model=gpt-4-code-interpreter) ChatGPT有償契約が必要
 
 ---
 
